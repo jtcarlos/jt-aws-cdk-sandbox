@@ -1,8 +1,6 @@
-# AWS Sandbox
+# AWS CDK Sandbox
 
-This is created as a repository to host the code of my playthrough / experimentations / learning sessions with AWS.
-
-This repository may contain simple AWS Lambda functions, CDKs, CloudFormation templates, or SAM templates.
+This is created as a repository to host the code of my playthrough / experimentations / learning sessions with AWS CDK
 
 ## Introduction
 
