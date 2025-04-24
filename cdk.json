@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/jt-aws-sandbox.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/aws-sandbox.ts",
   "profile": "iamadmin",
   "watch": {
     "include": ["**"],
