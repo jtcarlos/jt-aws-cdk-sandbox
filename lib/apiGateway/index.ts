@@ -1,0 +1,1 @@
+export { helloWorldAPIGateway } from "./helloWorld"
