@@ -1,1 +1,1 @@
-export { helloWorldAPIGateway } from "./helloWorld"
+export { devStageAPIGateway } from "./apis/devStage"
